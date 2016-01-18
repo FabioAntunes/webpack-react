@@ -1,5 +1,7 @@
 #Webpack and React boilerplate
 
+[![js-semistandard-style](https://cdn.rawgit.com/flet/semistandard/master/badge.svg)](https://github.com/Flet/semistandard)
+
 ## Getting Started
 Install the dependencies using [npm](https://npmjs.org):
 
